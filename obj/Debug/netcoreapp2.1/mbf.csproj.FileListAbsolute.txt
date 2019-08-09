@@ -32,3 +32,4 @@ d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\mbf.pdb
 D:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\mbf.csproj.CopyComplete
 d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Test.g.cshtml.cs
 d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MasterLayout.g.cshtml.cs
+d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\inc\_Header.g.cshtml.cs
