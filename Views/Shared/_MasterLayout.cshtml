@@ -9,7 +9,7 @@
         <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700">
         
         <link href="~/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all">  
-        <link href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">
+        <link href="~/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">
         <link href="~/css/fonts.googleapis.css" rel="stylesheet" type="text/css" media="all">
         <link href="~/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">
         <link href="~/css/icon-font.min.css" rel="stylesheet" type="text/css" media="all">
@@ -21,10 +21,10 @@
         <link href="~/css/cs.animate.css" rel="stylesheet" type="text/css" media="all">
     </environment>
     <environment exclude="Development">
-        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css"
+        <!-- <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css"
               asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
               asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
-        <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" /> -->
     </environment>
 
 </head>
@@ -47,22 +47,34 @@
             </div>
         </div>
     </nav> -->
+    <!-- header -->
 
     <partial name="_CookieConsentPartial" />
 
     <div class="container body-content">
         @RenderBody()
-        <!-- <hr />
-        <footer>
+        
+        <!-- footer -->
+        <!-- <footer>
             <p>&copy; 2019 - mbf</p>
-        </footer>
-    </div> -->
+        </footer> -->
 
     <environment include="Development">
-
+        <script type="text/javascript" src="~/js/jquery.min.js"></script>
+        <script type="text/javascript" src="~/js/classie.js"></script>
+        <script type="text/javascript" src="~/js/cs.optionSelect.js"></script>
+        <script type="text/javascript" src="~/js/cs.script.js"></script>
+        <script type="text/javascript" src="~/js/jquery.currencies.min.js"></script>
+        <script type="text/javascript" src="~/js/jquery.zoom.min.js"></script>
+        <script type="text/javascript" src="~/js/linkOptionSelectors.js"></script>
+        <script type="text/javascript" src="~/js/owl.carousel.min.js"></script>
+        <script type="text/javascript" src="~/js/scripts.js"></script>
+        <script type="text/javascript" src="~/js/social-buttons.js"></script>
+        <script type="text/javascript" src="~/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="~/js/jquery.touchSwipe.min.js"></script>
     </environment>
     <environment exclude="Development">
-        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.3.1.min.js"
+        <!-- <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.3.1.min.js"
                 asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
                 asp-fallback-test="window.jQuery"
                 crossorigin="anonymous"
@@ -74,7 +86,7 @@
                 crossorigin="anonymous"
                 integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa">
         </script>
-        <script src="~/js/site.min.js" asp-append-version="true"></script>
+        <script src="~/js/site.min.js" asp-append-version="true"></script> -->
     </environment>
 
     @RenderSection("Scripts", required: false)
