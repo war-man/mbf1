@@ -39,6 +39,11 @@ namespace mbf.Controllers
             return View("~/Views/Home/Cart.cshtml");
         }
 
+        [Route("/login")]
+        public IActionResult Login()
+        {
+            return View("~/Views/Home/Login.cshtml");
+        }
 
 
         public IActionResult About()
