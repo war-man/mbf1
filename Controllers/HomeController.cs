@@ -65,7 +65,7 @@ namespace mbf.Controllers
         }
 
         [Route("/{userId}/checkout")]
-        public IActionResult checkout()
+        public IActionResult Checkout()
         {
             return View("~/Views/Home/Checkout.cshtml");
         }

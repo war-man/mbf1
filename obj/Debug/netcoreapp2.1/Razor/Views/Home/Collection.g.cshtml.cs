@@ -108,7 +108,7 @@ using mbf.Models;
             WriteLiteral("\t\t<main class=\"main-content\" id=\"MainContent\" role=\"main\">\r\n\t\t\t<section class=\"collection-heading heading-content \">\r\n\t\t\t\t<a href=\"collections-all.html\">\r\n\t\t\t\t\t");
             EndContext();
             BeginContext(160, 69, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "5b6274a7f2da412b9f0977e13257b2dd", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "b2e187618e6d4d2a888d184a131b0773", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -276,7 +276,7 @@ using mbf.Models;
             WriteLiteral("\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(8557, 101, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "bc124fa2c65342f7944e77ab5442a9bc", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "2b81435a1dc0415aa1524e9b3d0d1e7b", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -296,7 +296,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(8728, 91, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "a016931f48d64b7899ddb12b213e6f3b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "d9d567fac02448cf9fd6c24c32e74d03", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -344,7 +344,7 @@ using mbf.Models;
 																					");
             EndContext();
             BeginContext(10433, 102, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "22c74a5fcae6420995e58e4bd87e432a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "d5cb47f18ec942d49194f6aae3628e29", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -364,7 +364,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(10605, 92, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c024858c9fc84eb1a4fd25c99e55a814", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "f726e23087ca469fa6e85178c5cc8997", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -412,7 +412,7 @@ using mbf.Models;
 																					");
             EndContext();
             BeginContext(12313, 102, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "7bc56d07d0864b2db236c8fc7793f871", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "2dac1799ebc243b9957073cc05a8f81b", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -432,7 +432,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(12485, 92, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "14dd5e53921042b687510558db8bbd86", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "467b0977e0e64d85a61a54e27d7e195a", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -480,7 +480,7 @@ using mbf.Models;
 																					");
             EndContext();
             BeginContext(14193, 103, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "9a59b5544e3046aabcffc8f9e74b5a44", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "a475e378d50c4453b71ad08fe7881a79", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -500,7 +500,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(14366, 93, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "f1c2da24155b4a95a61bdced909bc333", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "3f7a80b05b4f4edb9e0199162eda7938", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -627,7 +627,7 @@ using mbf.Models;
 																");
             EndContext();
             BeginContext(18929, 70, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c8c4c9ebadca42f7b40954c4e5e1167f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "61d0184a42164eb38e2f4a9e6a38d6f8", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -661,7 +661,7 @@ using mbf.Models;
 																");
             EndContext();
             BeginContext(19599, 70, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "39f818ffddd8401089c636f1a66c5167", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "b14ed76736634ea09c33ff84ab4ded9f", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -749,7 +749,7 @@ using mbf.Models;
 																			");
             EndContext();
             BeginContext(23247, 101, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "02cda0088cf548c4a9a906122da9a5e9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "5f118a472bbe44c1aeb9e0d123ceaa09", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -769,7 +769,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(23414, 91, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "af5a705bf75145c282c3bcf63437ed92", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "1e90b41580dd4ae58721efc1248394a2", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -799,7 +799,7 @@ using mbf.Models;
 																					");
             EndContext();
             BeginContext(23902, 384, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f4e5fc967efb4b7981a1d6914acea1a4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8216d007dd5e4bb6b52c7d4f39d92152", async() => {
                 BeginContext(23992, 287, true);
                 WriteLiteral(@"
 																						<div class=""effect-ajax-cart"">
@@ -882,7 +882,7 @@ using mbf.Models;
 																				");
             EndContext();
             BeginContext(27952, 411, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "56da7d4234d8443fb4b646021c53f424", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b055ff43a88a4258b05dae0ffed63a98", async() => {
                 BeginContext(28068, 288, true);
                 WriteLiteral(@"
 																					<div class=""effect-ajax-cart"">
@@ -934,7 +934,7 @@ using mbf.Models;
             WriteLiteral("-sm-3\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"product\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"row-left\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(29622, 101, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "aeaa188e71b8498889fc4bea264ca691", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "cd2ff6b114d54c88aa1bfb19ea2713a9", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -954,7 +954,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(29789, 91, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "85165af6462a4b8b848cfdd7467aebbc", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "8d70c6db6eec47e08f878d1350bd1776", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -981,7 +981,7 @@ using mbf.Models;
 																					");
             EndContext();
             BeginContext(30148, 384, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9ddea4cff4934e50ac21de041c88beae", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "13d8e311eea64d6086fae51d77b95a7c", async() => {
                 BeginContext(30238, 287, true);
                 WriteLiteral(@"
 																						<div class=""effect-ajax-cart"">
@@ -1063,7 +1063,7 @@ using mbf.Models;
 																				");
             EndContext();
             BeginContext(34081, 411, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3c5ac0e5278e45a680e07e9f68c283c2", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "28a7dd5fa69a4f29a2e7efa41a93f1bd", async() => {
                 BeginContext(34197, 288, true);
                 WriteLiteral(@"
 																					<div class=""effect-ajax-cart"">
@@ -1115,7 +1115,7 @@ using mbf.Models;
             WriteLiteral("-sm-3\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"product\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"row-left\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(35751, 101, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "446328d9e95646958a1809028c2acd11", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "20cdb9e36f6d4889bdce347f3fe0bf22", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1135,7 +1135,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(35918, 91, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "ef691198306b4618bc5e597d95dd1ec2", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "2696708e4e5d46f0a958fb89e30e8cdf", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1162,7 +1162,7 @@ using mbf.Models;
 																					");
             EndContext();
             BeginContext(36277, 384, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cbe3616e8b6c474d8a772e539ee1c62f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "05191b30ce654651bed098258f75fccb", async() => {
                 BeginContext(36367, 287, true);
                 WriteLiteral(@"
 																						<div class=""effect-ajax-cart"">
@@ -1243,7 +1243,7 @@ using mbf.Models;
 																				");
             EndContext();
             BeginContext(40092, 411, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "042e4e70fcfd43db8ce43d8869ecd174", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "26e2e2c85de74d3c8425d2b456434b47", async() => {
                 BeginContext(40208, 288, true);
                 WriteLiteral(@"
 																					<div class=""effect-ajax-cart"">
@@ -1295,7 +1295,7 @@ using mbf.Models;
             WriteLiteral("-sm-3\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"product\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"row-left\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(41762, 104, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c4ad2d57b60f4e88867c81f2392061f8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "00c1c02a2fdd4fadb1372ff7aabff2ba", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1315,7 +1315,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(41932, 94, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "b42e59447ad34faaad6bc6828757fa5d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "2374912846404b55aa11742fe554cc21", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1345,7 +1345,7 @@ using mbf.Models;
 																					");
             EndContext();
             BeginContext(42423, 384, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2526df73f7294639a9d49ac3003a841b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "63caecc1c4e442acadf34ce783a9a4db", async() => {
                 BeginContext(42513, 287, true);
                 WriteLiteral(@"
 																						<div class=""effect-ajax-cart"">
@@ -1428,7 +1428,7 @@ using mbf.Models;
 																				");
             EndContext();
             BeginContext(46479, 411, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "61e52347065e4baf8dde65534f828a29", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "23fc758205734a1da57ce8287881a451", async() => {
                 BeginContext(46595, 288, true);
                 WriteLiteral(@"
 																					<div class=""effect-ajax-cart"">
@@ -1480,7 +1480,7 @@ using mbf.Models;
             WriteLiteral("-sm-3\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"product\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"row-left\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(48149, 104, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "f7a3c4e823e14206a0208168dd041926", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "ade07e8e7fc44f53b97f9dfd27e67ed4", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1500,7 +1500,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(48319, 94, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "0753536ab15f4a4ab3a478a6aa70ca39", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "2f4e46f87bc945edbf9a7fd06384aab9", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1530,7 +1530,7 @@ using mbf.Models;
 																					");
             EndContext();
             BeginContext(48810, 384, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1693184dade24f82bac413ffc4d6822c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "42e3fbb2496749a4936add346c2ac78e", async() => {
                 BeginContext(48900, 287, true);
                 WriteLiteral(@"
 																						<div class=""effect-ajax-cart"">
@@ -1613,7 +1613,7 @@ using mbf.Models;
 																				");
             EndContext();
             BeginContext(52866, 411, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d77b414f04784b128ee4516069964f04", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8b52cf7ce87f4c5cb4d457699302fce8", async() => {
                 BeginContext(52982, 288, true);
                 WriteLiteral(@"
 																					<div class=""effect-ajax-cart"">
@@ -1665,7 +1665,7 @@ using mbf.Models;
             WriteLiteral("-sm-3\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"product\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"row-left\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(54536, 104, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "61caf8f4f3b94062964db97586016edd", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "d5f3cc18ad6543b38160457cb92f11cf", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1685,7 +1685,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(54706, 94, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "537866c0df0f42b6976bf6858c0bcf39", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "edcda228d619496a8398a08e0aa0537d", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1712,7 +1712,7 @@ using mbf.Models;
 																					");
             EndContext();
             BeginContext(55068, 384, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dff18aec358a4a99a5cb72ae47118df5", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ad5db3fe4c954ef9a1ffe84c1f01acdc", async() => {
                 BeginContext(55158, 287, true);
                 WriteLiteral(@"
 																						<div class=""effect-ajax-cart"">
@@ -1793,7 +1793,7 @@ using mbf.Models;
 																				");
             EndContext();
             BeginContext(58889, 411, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9ff8b4c3551849e698b76ad96d9ce6a9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a38863d672984d36bc817444f35c166f", async() => {
                 BeginContext(59005, 288, true);
                 WriteLiteral(@"
 																					<div class=""effect-ajax-cart"">
@@ -1845,7 +1845,7 @@ using mbf.Models;
             WriteLiteral("-sm-3\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"product\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"row-left\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(60559, 104, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "0955481a2d414f44b089b11b632a0f2f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "3ff55aeda5d54e02a0b1b1fc6efc3a5a", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1865,7 +1865,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(60729, 94, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "9b94ddb6ba044184ad7f1eefd1cd35af", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "cf724d541e12432d9fe4a9aa64db77c4", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1892,7 +1892,7 @@ using mbf.Models;
 																					");
             EndContext();
             BeginContext(61091, 384, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "696bb94b91fd41b8a14fab958fc2c767", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d98c7ae3df894d5e8a29a0f53db36aa7", async() => {
                 BeginContext(61181, 287, true);
                 WriteLiteral(@"
 																						<div class=""effect-ajax-cart"">
@@ -1973,7 +1973,7 @@ using mbf.Models;
 																				");
             EndContext();
             BeginContext(64912, 411, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a2e8252f70da40829036b28a742cb856", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ef7fa41421234f019269b5bec87d466a", async() => {
                 BeginContext(65028, 288, true);
                 WriteLiteral(@"
 																					<div class=""effect-ajax-cart"">
@@ -2025,7 +2025,7 @@ using mbf.Models;
             WriteLiteral("-sm-3\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"product\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"row-left\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(66582, 103, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "d22594d2d963460b8ee3a0994961d931", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "777323fd036b43d99e3617dda3d5ec5a", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -2045,7 +2045,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(66751, 93, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "25b3b5079a1544cab31a985541b8bcf4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "85283878d1ea4e9c8fb882f91fae9a52", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -2075,7 +2075,7 @@ using mbf.Models;
 																					");
             EndContext();
             BeginContext(67241, 384, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "51ade9e41ce84f3f95b6137e0a00b284", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2a624c793e445ed8cc6827431d0ab63", async() => {
                 BeginContext(67331, 287, true);
                 WriteLiteral(@"
 																						<div class=""effect-ajax-cart"">
@@ -2158,7 +2158,7 @@ using mbf.Models;
 																				");
             EndContext();
             BeginContext(71289, 411, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "61cedd232b2942579d524baf7f469a33", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae41cdee3b2c45dcad6579da0290c255", async() => {
                 BeginContext(71405, 288, true);
                 WriteLiteral(@"
 																					<div class=""effect-ajax-cart"">
@@ -2210,7 +2210,7 @@ using mbf.Models;
             WriteLiteral("-sm-3\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"product\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"row-left\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(72959, 103, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "67ee3889f19b476f9ebcef968fb919d7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "f5583a70495541a3b52f33cee9ac7dac", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -2230,7 +2230,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(73128, 93, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c99c8c00a4924ba5b950705f06253615", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "34a5ba695dbd435eb29f66c1f8815bf9", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -2257,7 +2257,7 @@ using mbf.Models;
 																					");
             EndContext();
             BeginContext(73489, 384, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1380c8e21bbf416eb92eb9408a68ac60", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c0362c888a4341d9b710a6c1af5ebaaf", async() => {
                 BeginContext(73579, 287, true);
                 WriteLiteral(@"
 																						<div class=""effect-ajax-cart"">
@@ -2338,7 +2338,7 @@ using mbf.Models;
 																				");
             EndContext();
             BeginContext(77302, 411, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "06b26255938e4b1493c3105b8125c27a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "538bd36cf7864e238dfc6312ee7f3173", async() => {
                 BeginContext(77418, 288, true);
                 WriteLiteral(@"
 																					<div class=""effect-ajax-cart"">
@@ -2390,7 +2390,7 @@ using mbf.Models;
             WriteLiteral("-sm-3\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"product\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"row-left\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(78972, 103, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "63ec1bdb5c574ccaa94ad882f42709c9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "173fe63f321c4e91b71eb7eb6c2ce758", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -2410,7 +2410,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(79141, 93, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "08e245fc397f4119bffd6c8a1ba0e100", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "a0175fb88c4d47bd9d4931fb7e2ee6c3", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -2437,7 +2437,7 @@ using mbf.Models;
 																					");
             EndContext();
             BeginContext(79502, 384, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d4fae0b3ab5d429fa203f42c19083922", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5e40f5e8660849a0af9d20d680d78330", async() => {
                 BeginContext(79592, 287, true);
                 WriteLiteral(@"
 																						<div class=""effect-ajax-cart"">
@@ -2518,7 +2518,7 @@ using mbf.Models;
 																				");
             EndContext();
             BeginContext(83315, 411, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f649f65bbc584bc59a32696ecf804915", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fba6de0e2a4242f5871ec22e59d09ff0", async() => {
                 BeginContext(83431, 288, true);
                 WriteLiteral(@"
 																					<div class=""effect-ajax-cart"">
@@ -2570,7 +2570,7 @@ using mbf.Models;
             WriteLiteral("-sm-3\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"product\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"row-left\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(84985, 99, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "32ef3e5e1c5140aba9848236d9aff075", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "7ff7ec16a0ac467e89911d199d971c18", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -2590,7 +2590,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(85150, 89, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "b75aec9ecd0c425faa04083a5b4288d6", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "e8caa9df6ebc49a69c12615b0c66dc38", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -2620,7 +2620,7 @@ using mbf.Models;
 																					");
             EndContext();
             BeginContext(85636, 384, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "56cbc69f478a4fb2b5c3c68d18138d78", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ce05ee2511aa423c8e4473b0365b7810", async() => {
                 BeginContext(85726, 287, true);
                 WriteLiteral(@"
 																						<div class=""effect-ajax-cart"">
@@ -2703,7 +2703,7 @@ using mbf.Models;
 																				");
             EndContext();
             BeginContext(89679, 411, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "245d902cefdc4d14baa6c4b1f63b9748", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c7f3956870444575bef8dd8237d4256a", async() => {
                 BeginContext(89795, 288, true);
                 WriteLiteral(@"
 																					<div class=""effect-ajax-cart"">
@@ -2755,7 +2755,7 @@ using mbf.Models;
             WriteLiteral("-sm-3\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"product\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"row-left\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(91349, 99, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "75937db392ae4062a067976c1138b7ae", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "cb9b58cd9616430386b68ea3a7ca1949", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -2775,7 +2775,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(91514, 89, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "eef64f6e2c324d529d1d0600202086ee", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "38e748c72e5d4ef28db54cf8089534a8", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -2805,7 +2805,7 @@ using mbf.Models;
 																					");
             EndContext();
             BeginContext(92000, 384, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3fd2aedc5d034bcab83cef42ce76e041", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dd0bce40d70c4462864d2da308a0cfa2", async() => {
                 BeginContext(92090, 287, true);
                 WriteLiteral(@"
 																						<div class=""effect-ajax-cart"">
@@ -2888,7 +2888,7 @@ using mbf.Models;
 																				");
             EndContext();
             BeginContext(96043, 411, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d833edf079de4ba389182c7e2b11978a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d3f133076006496aaae6b5560d630510", async() => {
                 BeginContext(96159, 288, true);
                 WriteLiteral(@"
 																					<div class=""effect-ajax-cart"">
@@ -2940,7 +2940,7 @@ using mbf.Models;
             WriteLiteral("-sm-3\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"product\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"row-left\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(97713, 99, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c37195cafc574e13bec8aaa4bd79a2e2", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "2e0170ad872e4210994aa33cc9a6bb4d", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -2960,7 +2960,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(97878, 89, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "9be6ac1764d64a2199d8fff91bc0adf6", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "ca91f4e051294333b8c253202d1b71ac", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -2987,7 +2987,7 @@ using mbf.Models;
 																					");
             EndContext();
             BeginContext(98235, 384, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "10d940a04442455da75e27d249dcf704", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "25fc766f734549de8ccff9d4f60b9890", async() => {
                 BeginContext(98325, 287, true);
                 WriteLiteral(@"
 																						<div class=""effect-ajax-cart"">
@@ -3068,7 +3068,7 @@ using mbf.Models;
 																				");
             EndContext();
             BeginContext(102043, 411, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0d6aefbd119d464390612b99446e5f6e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ada095a11f6d4e6db21ee10c3bd8d460", async() => {
                 BeginContext(102159, 288, true);
                 WriteLiteral(@"
 																					<div class=""effect-ajax-cart"">
@@ -3120,7 +3120,7 @@ using mbf.Models;
             WriteLiteral("-sm-3\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"product\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"row-left\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(103713, 99, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "6cf4aa8b548f4decac90f9f7ba12d580", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "6f01d283f1a84f65aaf414534a75bbfa", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -3140,7 +3140,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(103878, 89, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "ab85de696e124a388134c3840e83b0a0", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "4090ae9b4245476789385c7d69f6104d", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -3167,7 +3167,7 @@ using mbf.Models;
 																					");
             EndContext();
             BeginContext(104235, 384, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0575896bf241404bbd622c30ee9fe7e5", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4f2decf6b1f749b8a50aee7be23711af", async() => {
                 BeginContext(104325, 287, true);
                 WriteLiteral(@"
 																						<div class=""effect-ajax-cart"">
@@ -3248,7 +3248,7 @@ using mbf.Models;
 																				");
             EndContext();
             BeginContext(108043, 411, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e808f5795a3d4c75a4f1134e0d83bd8e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ddfc622a03f94723a3b7250e88b2a0ce", async() => {
                 BeginContext(108159, 288, true);
                 WriteLiteral(@"
 																					<div class=""effect-ajax-cart"">
@@ -3300,7 +3300,7 @@ using mbf.Models;
             WriteLiteral("-sm-3\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"product\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"row-left\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(109713, 102, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "26f6f09460744f9eb343cc692c4d59ad", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c4e3528925734827a1f05249e03ceecb", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -3320,7 +3320,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(109881, 92, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "a17ad94253844fa18e3cfffdb855b5b5", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "5a126f5392384ce8a3558fb16bbe7f96", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -3347,7 +3347,7 @@ using mbf.Models;
 																					");
             EndContext();
             BeginContext(110241, 384, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "651b499d40b5465e8c6f232f30036ffb", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3fe404fb0d9a461fbd02db78d069f8bd", async() => {
                 BeginContext(110331, 287, true);
                 WriteLiteral(@"
 																						<div class=""effect-ajax-cart"">
@@ -3428,7 +3428,7 @@ using mbf.Models;
 																				");
             EndContext();
             BeginContext(114054, 411, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "855e7cfb44084e6a8738391393539679", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "97e6d237e04247f8b077958b53e27e42", async() => {
                 BeginContext(114170, 288, true);
                 WriteLiteral(@"
 																					<div class=""effect-ajax-cart"">
@@ -3480,7 +3480,7 @@ using mbf.Models;
             WriteLiteral("-sm-3\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"product\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"row-left\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(115724, 102, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "d8c0dc2daea6486480a0c2e60cddfd14", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "b2e60a693fbe45a3b7d0e1ce67953913", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -3500,7 +3500,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(115892, 92, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "50ea4ba45de74482a070b4696d17f723", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "741e6f584a494bbd8a39e12f6f61ebda", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -3527,7 +3527,7 @@ using mbf.Models;
 																					");
             EndContext();
             BeginContext(116252, 384, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f10ae4a111b343218a4f8c26fdb36a6c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dafbac98fc9e404bb395a71113576726", async() => {
                 BeginContext(116342, 287, true);
                 WriteLiteral(@"
 																						<div class=""effect-ajax-cart"">
@@ -3608,7 +3608,7 @@ using mbf.Models;
 																				");
             EndContext();
             BeginContext(120065, 411, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d54cd13f57c943858a532ecdab4732e7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1eb66e50d5e642089365f7d269136362", async() => {
                 BeginContext(120181, 288, true);
                 WriteLiteral(@"
 																					<div class=""effect-ajax-cart"">
@@ -3753,7 +3753,7 @@ using mbf.Models;
 																");
             EndContext();
             BeginContext(125309, 104, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "664811e73ccd46549a840fb4d9069fd6", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "fea8fbe6c8464d64bfcd41054b129032", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -3773,7 +3773,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(125473, 94, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "a41d7df74d79494697673bf965141783", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "1559061ae64b4e9aab8db21ce34abf9d", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -3793,7 +3793,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hover-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"group-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"inner-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"group-actionbutton\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(125804, 412, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "80b1c96c8d5e4911b54235b580a23366", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d3286941ac234063be417ff5bdcd4968", async() => {
                 BeginContext(125894, 315, true);
                 WriteLiteral(@"
 																			<div class=""effect-ajax-cart"">
@@ -3863,7 +3863,7 @@ using mbf.Models;
             WriteLiteral("\t\t\t\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(128400, 104, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "b5a3c145c4ab4b29b0e708a014cb4f84", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "a71fa913c7694a889f95aabe1dbb98c4", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -3883,7 +3883,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(128564, 94, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "6fd5d783f1944c4495f99ba1146316cb", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "4bc743ef71be43b5a6882c8c7cd31581", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -3903,7 +3903,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hover-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"group-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"inner-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"group-actionbutton\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(128895, 412, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8e2f6e270c184eac90e335a3de912b16", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18cadc73b4144be39b2939363047c95a", async() => {
                 BeginContext(128985, 315, true);
                 WriteLiteral(@"
 																			<div class=""effect-ajax-cart"">
@@ -3973,7 +3973,7 @@ using mbf.Models;
             WriteLiteral("\t\t\t\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(131491, 104, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c04da67c15474a88b6abb49eb820547a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "79ed264f0c36458e9b6ea569aaeecf5d", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -3993,7 +3993,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(131655, 94, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "442c1e14cc634d2facfd6c372b5a8c62", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "e1ac03605833455ebcaa05d8058246ed", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -4013,7 +4013,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hover-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"group-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"inner-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"group-actionbutton\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(131986, 412, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "599cc6f2c1ab49fd8571ea761940bee8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b74a53ff4e384f2d8d7cb1b0bfa67f7c", async() => {
                 BeginContext(132076, 315, true);
                 WriteLiteral(@"
 																			<div class=""effect-ajax-cart"">
@@ -4083,7 +4083,7 @@ using mbf.Models;
             WriteLiteral("\t\t\t\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(134582, 105, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "0d173fcbf7434bd5b19883b0b1d8376e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "eff77b1ae1f74ce7a1f56f493a46eaaa", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -4103,7 +4103,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(134747, 95, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "265685baa01a4670ba8483ae5f85ec84", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "ce059da257054742bc25745c3736d35d", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -4123,7 +4123,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hover-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"group-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"inner-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"group-actionbutton\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(135079, 412, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b92423ff95da4518aa30968370a8bcaf", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fb8a77cc5359458ca77d546094a995cf", async() => {
                 BeginContext(135169, 315, true);
                 WriteLiteral(@"
 																			<div class=""effect-ajax-cart"">
@@ -4193,7 +4193,7 @@ using mbf.Models;
             WriteLiteral("\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(137672, 105, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "7c2dfad80791486b9447e16eacaeec80", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "e47e088935324d79bd30b01375c60dd4", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -4213,7 +4213,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(137837, 95, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "1a51d1578da84ce1942e9dcce35e2aee", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "3b5e9c352e1841f38369254d95b7f70c", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -4233,7 +4233,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hover-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"group-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"inner-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"group-actionbutton\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(138169, 412, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ece800875c8d46ecaf4d70cb353a9b95", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "622fd1a52a82483b8ac14010d7a02f29", async() => {
                 BeginContext(138259, 315, true);
                 WriteLiteral(@"
 																			<div class=""effect-ajax-cart"">
@@ -4303,7 +4303,7 @@ using mbf.Models;
             WriteLiteral("\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(140762, 105, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "9428ad398bbd47899e68048746890f72", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "9ddc6e5af24a42d0aa085760b6f3cd27", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -4323,7 +4323,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(140927, 95, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "ff3b9b9609204a6bac8c3119da333ca4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "4b9def999f8f4c8690bf2a51cdb5f214", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -4343,7 +4343,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hover-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"group-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"inner-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"group-actionbutton\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(141259, 412, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ab1d1f6758ba449e9eeba24dc6a73feb", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2324f937e2a4179b091de812bf283f7", async() => {
                 BeginContext(141349, 315, true);
                 WriteLiteral(@"
 																			<div class=""effect-ajax-cart"">
@@ -4413,7 +4413,7 @@ using mbf.Models;
             WriteLiteral("\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(143852, 105, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "dbc986845c884bdf92b357aee2f7b1c0", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c64382b728b0446697717455c2e83b84", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -4433,7 +4433,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(144017, 95, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "7d789d9c0b4c4a968719e28160646376", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "1fd50cc95ecf438daf497d23509c9178", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -4453,7 +4453,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hover-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"group-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"inner-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"group-actionbutton\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(144349, 412, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3275fe898a2f44578603dd1e25341751", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f25a207925084f26ab990937dcc945cb", async() => {
                 BeginContext(144439, 315, true);
                 WriteLiteral(@"
 																			<div class=""effect-ajax-cart"">
@@ -4530,7 +4530,7 @@ using mbf.Models;
 																");
             EndContext();
             BeginContext(147186, 103, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "0d17713638dc4263982e8fadb4f0f080", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "893e8623cd564cc79d0a5a4796730938", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -4550,7 +4550,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(147349, 93, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "d09bd2ae1ef8412691479635d6c93e75", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "7ae76477fcdc40578af645d401d40f65", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -4580,7 +4580,7 @@ using mbf.Models;
 																		");
             EndContext();
             BeginContext(147799, 412, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e7bbfe3b4013469ab6c0d07ec43825da", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bb11d318e73d440a83ed1489066a3257", async() => {
                 BeginContext(147889, 315, true);
                 WriteLiteral(@"
 																			<div class=""effect-ajax-cart"">
@@ -4647,7 +4647,7 @@ using mbf.Models;
             WriteLiteral("\t<div class=\"row-container product list-unstyled clearfix\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"row-left\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(150496, 103, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "26f6faa87d1b48b983cb6b9d06284384", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "f66ddb3a1f3b44a18265a95b604249c4", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -4667,7 +4667,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(150659, 93, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "65bc427f1a8d4becb76c34c356876bb7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "d6075d0381134ee6b8b07bac4f974c2b", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -4697,7 +4697,7 @@ using mbf.Models;
 																		");
             EndContext();
             BeginContext(151109, 412, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3e14e4e78f1640f79fe2d554c4aba1b7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8118884051a945d48e8cb34a10836f47", async() => {
                 BeginContext(151199, 315, true);
                 WriteLiteral(@"
 																			<div class=""effect-ajax-cart"">
@@ -4764,7 +4764,7 @@ using mbf.Models;
             WriteLiteral("\t<div class=\"row-container product list-unstyled clearfix\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"row-left\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(153806, 103, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "88ff3dc85dfd4a1d826999f5e2898a18", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "4df5193fedc24526ab4e1108105c46b9", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -4784,7 +4784,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(153969, 93, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "f96a3a5c92714abfadc05878e00f5724", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "33d47d7748cd4bb4bdc86629a1c10e8b", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -4804,7 +4804,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hover-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"group-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"inner-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"group-actionbutton\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(154299, 412, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c939ee300db344cdbf36ca05900d39c9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "481c1e30480e4a8cbaf6527bf1e10ecd", async() => {
                 BeginContext(154389, 315, true);
                 WriteLiteral(@"
 																			<div class=""effect-ajax-cart"">
@@ -4872,7 +4872,7 @@ using mbf.Models;
             WriteLiteral("\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(156863, 103, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "116d29ca7f574262bc2ee2ae60c8f03b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "2dffe01161cb4668a1699bfa4c57e251", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -4892,7 +4892,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(157026, 93, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "6074727f6ba040ac977713c6b26fec6c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "bae7dcda4af745468161875a310c9072", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -4922,7 +4922,7 @@ using mbf.Models;
 																		");
             EndContext();
             BeginContext(157476, 412, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1df9a4844bc44aa5a1710211ed34e666", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1293cccb892f4559ad47d8d1d9583888", async() => {
                 BeginContext(157566, 315, true);
                 WriteLiteral(@"
 																			<div class=""effect-ajax-cart"">
@@ -4989,7 +4989,7 @@ using mbf.Models;
             WriteLiteral("\t<div class=\"row-container product list-unstyled clearfix\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"row-left\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(160173, 106, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "658c06b7c12548d8b6cda28d9ddc19dd", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "1488cf19d3d64c809e8712378546894f", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -5009,7 +5009,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(160339, 96, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c1c36836905c4f4d93fe01d006b83a8f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "8db787ae9a9240d38b0b2b4787b4ce2a", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -5039,7 +5039,7 @@ using mbf.Models;
 																		");
             EndContext();
             BeginContext(160792, 412, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "75234ab89f6c4ffbbd30d1ac30d58d79", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c5bb9cb758e046d7bf2622869d3ceae4", async() => {
                 BeginContext(160882, 315, true);
                 WriteLiteral(@"
 																			<div class=""effect-ajax-cart"">
@@ -5106,7 +5106,7 @@ using mbf.Models;
             WriteLiteral("\t\t\t\t<div class=\"row-container product list-unstyled clearfix\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"row-left\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"product.html\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(163492, 106, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "72d662d57dac4869a4e64e8c40b51884", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "4335efceee5d4edd928a97521340aef0", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -5126,7 +5126,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(163658, 96, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "5b6b5fdb2d6441f098ef9f90be8ab2b1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "6494b00427e1494d91560f18c7f2f6c0", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -5146,7 +5146,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hover-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"group-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"inner-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"group-actionbutton\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(163991, 412, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9fb87bc70d634114b444bfea246eddcd", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f0bfacbb92f24b409f490b0cf43aee29", async() => {
                 BeginContext(164081, 315, true);
                 WriteLiteral(@"
 																			<div class=""effect-ajax-cart"">
@@ -5214,7 +5214,7 @@ using mbf.Models;
             WriteLiteral("tml\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(166558, 106, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "7a78db7ab2ec49a9925fabe36c1be4f6", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "cfc082cbacdc40cb8eb7addc8e09e737", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -5234,7 +5234,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(166724, 96, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "6ddb18430b4c4f4c87d59079a017090f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c4f2d7d9636f44f4b1b033e1aeb6bec4", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -5254,7 +5254,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hover-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"group-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"inner-mask\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"group-actionbutton\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(167057, 412, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d30afa3027ff42ebb3d12372e350e67e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "60fd58fca15641f6a0d2e06c1b49a965", async() => {
                 BeginContext(167147, 315, true);
                 WriteLiteral(@"
 																			<div class=""effect-ajax-cart"">
@@ -5322,7 +5322,7 @@ using mbf.Models;
             WriteLiteral("tml\" class=\"hoverBorder container_item\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"hoverBorderWrapper\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(169624, 106, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "b446dadfe5a94766b0951f185e490195", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "5b6d66205dbf48708d6ea995c58f8b18", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -5342,7 +5342,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mask\"></div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(169790, 96, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "0092520b0af7458186c2aec79836c058", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "932033ee132f41aeab8f9d668022b18b", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -5372,7 +5372,7 @@ using mbf.Models;
 																		");
             EndContext();
             BeginContext(170243, 412, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "815bc47de39645c785c73e11e68a5ebf", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "50d671e040394ee9b3dab56b7b6ad891", async() => {
                 BeginContext(170333, 315, true);
                 WriteLiteral(@"
 																			<div class=""effect-ajax-cart"">

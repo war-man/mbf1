@@ -40,3 +40,7 @@ d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\ProductDetails.g.cshtml.c
 d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Cart.g.cshtml.cs
 d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
 d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Signup.g.cshtml.cs
+d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Checkout.g.cshtml.cs
+d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Profile.g.cshtml.cs
+d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\PurchaseHistory.g.cshtml.cs
+d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Checkout.g.cshtml.cs

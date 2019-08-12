@@ -18,8 +18,9 @@
         <link href="~/css/spr.css" rel="stylesheet" type="text/css" media="all">
         <link href="~/css/slideshow-fade.css" rel="stylesheet" type="text/css" media="all">
         <link href="~/css/cs.animate.css" rel="stylesheet" type="text/css" media="all">
-        <!-- checkout -->
-        <link rel="stylesheet" media="all" href="//cdn.shopify.com/app/services/18437011/assets/162462403/checkout_stylesheet/v2-ltr-edge-7823f9eb48c9f6fee6ab02af0b6a40ac-14" />
+        <!-- custom stylesheet -->
+       @RenderSection("stylesheet", required: false)
+
     </environment>
     <environment exclude="Development">
     </environment>
