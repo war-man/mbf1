@@ -89,6 +89,12 @@ namespace mbf.Controllers
         {
             return View("~/Views/Home/BlogDetails.cshtml");
         }
+
+        [Route("/searchResult")]
+        public IActionResult SearchResults()
+        {
+            return View("~/Views/Home/SearchResult.cshtml");
+        }
         public IActionResult Contact()
         {
             ViewData["Message"] = "Your contact page.";
