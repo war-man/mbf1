@@ -27,6 +27,20 @@ namespace mbf.Controllers
             return View("~/Views/Home/Category.cshtml");
         }
 
+        [Route("/product/{id}")]
+        public IActionResult ProductDetails()
+        {
+            return View("~/Views/Home/ProductDetails.cshtml");
+        }
+
+        [Route("/{userId}/cart")]
+        public IActionResult Cart()
+        {
+            return View("~/Views/Home/Cart.cshtml");
+        }
+
+
+
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
