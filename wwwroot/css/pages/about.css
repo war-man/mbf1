@@ -1,0 +1,396 @@
+.body-content {
+    padding: 0;
+    margin: auto
+}
+
+.page-about {
+    background: #ffffff
+}
+
+.page-about .title-about-us h2 {
+    font-weight: 400;
+    text-transform: normal;
+    color: #222;
+    margin: 0 0 24px
+}
+
+.page-about .content-about-us {
+    padding-bottom: 30px
+}
+
+.page-about .content-about-us .des-about-us {
+    line-height: 23px;
+    color: #666;
+    margin-bottom: 0
+}
+
+.page-about .content-about-us .btn-contact {
+    background-color: #cccccc;
+    color: #ffffff;
+    height: 35px;
+    border-radius: 17px;
+    display: inline-block;
+    padding: 0 35px;
+    line-height: 35px;
+    text-transform: capitalize
+}
+
+.page-about .content-about-us .btn-contact:hover {
+    background: #ff5c00
+}
+
+.page-about .content-about-us .image-about-us img {
+    width: 100%
+}
+
+.page-about .content-about-us .image-about-us img:hover {
+    opacity: 0.7
+}
+
+.page-about .why-list li {
+    position: relative;
+    padding-left: 29px;
+    font-size: 12px
+}
+
+.page-about .why-list li:before {
+    content: "";
+    width: 14px;
+    height: 12px;
+    display: inline-block;
+    position: absolute;
+    left: 0px;
+    top: 10px;
+    background: url(//cdn.shopify.com/s/files/1/0058/5370/8399/t/2/assets/icon-whylist.png?714) no-repeat top left
+}
+
+.page-about .why-list li>a {
+    display: block;
+    padding: 5px 0 7px;
+    background: url(//cdn.shopify.com/s/files/1/0058/5370/8399/t/2/assets/border-bottom-bs.png?714) repeat-x left bottom
+}
+
+.page-about .our-member {
+    margin-top: 30px;
+    font-size: 12px;
+    text-align: center
+}
+
+.page-about .our-member .title-about-us>h2 {
+    padding: 0 30px 6px 30px;
+    font-size: 215.38%;
+    font-weight: normal;
+    font-family: inherit
+}
+
+.page-about .our-member .dshort-des {
+    margin-bottom: 25px
+}
+
+.page-about .our-member .w-image-box {
+    display: inline-block;
+    margin: 0px auto;
+    position: relative;
+    overflow: hidden
+}
+
+.page-about .our-member .w-image-box .item-image>a:before {
+    background: rgba(0, 0, 0, 0.3);
+    display: inline-block;
+    content: "";
+    width: 100%;
+    height: 0%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 2;
+    -webkit-transition: all 200ms ease-in-out;
+    -moz-transition: all 200ms ease-in-out;
+    -ms-transition: all 200ms ease-in-out;
+    -o-transition: all 200ms ease-in-out;
+    transition: all 200ms ease-in-out
+}
+
+.page-about .our-member .w-image-box:hover .item-image>a:before {
+    height: 100%
+}
+
+.page-about .our-member .w-image-box:hover .cl-nw {
+    bottom: 28px
+}
+
+.page-about .our-member .w-image-box .cl-nw {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    position: absolute;
+    bottom: -40px;
+    left: 50%;
+    margin-left: -12px;
+    overflow: hidden;
+    text-indent: -9999px;
+    z-index: 10;
+    border-radius: 50px;
+    -webkit-transition: all 300ms ease-in-out;
+    -moz-transition: all 300ms ease-in-out;
+    -ms-transition: all 300ms ease-in-out;
+    -o-transition: all 300ms ease-in-out;
+    transition: all 300ms ease-in-out
+}
+
+.page-about .our-member .w-image-box .cl-nw.cl-facebook {
+    background-image: url(//cdn.shopify.com/s/files/1/0058/5370/8399/t/2/assets/cl_facebook.png?714);
+    margin-left: -42px;
+    transition: all 0.3s ease 0.3s;
+    -web-kit-transition: all 0.3s ease 0.3s;
+    -moz-transition: all 0.3s ease 0.3s
+}
+
+.page-about .our-member .w-image-box .cl-nw.cl-flickr {
+    background-image: url(//cdn.shopify.com/s/files/1/0058/5370/8399/t/2/assets/cl_flickr.png?714);
+    transition: all 0.3s ease 0.6s;
+    -web-kit-transition: all 0.3s ease 0.6s;
+    -moz-transition: all 0.3s ease 0.6s
+}
+
+.page-about .our-member .w-image-box .cl-nw.cl-twitter {
+    background-image: url(//cdn.shopify.com/s/files/1/0058/5370/8399/t/2/assets/cl_twitter.png?714);
+    margin-left: 18px;
+    transition: all 0.3s ease 0.9s;
+    -web-kit-transition: all 0.3s ease 0.9s;
+    -moz-transition: all 0.3s ease 0.9s
+}
+
+.page-about .our-member .cl-name {
+    margin: 0
+}
+
+.page-about .our-member .cl-name>a {
+    font-size: 16px;
+    color: #ff5c00
+}
+
+.page-about .our-member .cl-name>a:hover {
+    text-decoration: underline
+}
+
+.page-about .our-member .cl-job {
+    font-size: 116.6%;
+    padding: 3px 0px 2px;
+    color: #444;
+    margin: 0
+}
+
+.page-about .our-member .cl-des {
+    color: #909090
+}
+
+.page-about .happy-about-us {
+    clear: both;
+    padding-top: 45px
+}
+
+.page-about .happy-about-us .happy-ab {
+    border: 1px solid #e9e9e9;
+    padding: 33px 8px 20px;
+    position: relative
+}
+
+.page-about .happy-about-us .title-happy-about {
+    background: #fff;
+    display: inline-block;
+    left: 20px;
+    padding: 5px 10px;
+    position: absolute;
+    top: -17px
+}
+
+.page-about .happy-about-us .title-happy-about h2 {
+    font-size: 18px;
+    color: #444;
+    font-family: inherit;
+    font-weight: normal;
+    margin: 0
+}
+
+.page-about .happy-about-us .ct-why {
+    padding: 0 10px 0 25px;
+    position: relative
+}
+
+.page-about .happy-about-us .ct-why:before {
+    content: "";
+    display: inline-block;
+    position: absolute;
+    width: 16px;
+    height: 12px;
+    background: url(//cdn.shopify.com/s/files/1/0058/5370/8399/t/2/assets/note-client.png?714) no-repeat top left;
+    left: 0px;
+    top: 6px
+}
+
+.page-about .happy-about-us .ct-why .client-say {
+    font-size: 13px;
+    color: #909090;
+    margin: 0 0 10px
+}
+
+.page-about .happy-about-us .client-info-about .name {
+    font-size: 133%;
+    color: #ff5c00
+}
+
+.about-us.style2 .welcome-about-us .content-about {
+    text-align: center;
+    margin-top: 30px
+}
+
+.about-us.style2 .welcome-about-us .content-about .title-about-us h2 {
+    font-size: 18px;
+    color: #222222;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px
+}
+
+.about-us.style2 .welcome-about-us .content-about .des-about-us p {
+    color: #666;
+    font-size: 14px
+}
+
+.about-us.style2 .about-policy {
+    text-align: center;
+    padding: 3rem 0;
+    background: #ffffff
+}
+
+.about-us.style2 .about-policy h3 {
+    font-size: 14px;
+    color: #222222;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 15px 0
+}
+
+.about-service {
+    background: #fff;
+    padding-bottom: 30px
+}
+
+.about_us p {
+    line-height: 23px;
+    color: #666
+}
+
+.about-service .item .item_wrap {
+    text-align: center
+}
+
+.about-service .item .item_wrap .icon {
+    display: inline-block;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    font-size: 36px;
+    color: #fff;
+    border-radius: 50%;
+    line-height: 100px;
+    background-color: #ff5c00
+}
+
+.about-service .item .item_wrap h3 {
+    font-weight: 700;
+    color: #222;
+    text-transform: uppercase;
+    padding: 20px 0 10px;
+    font-size: 14px;
+    margin: 0
+}
+
+.about-service .item .item_wrap .des {
+    font-size: 14px;
+    color: #666;
+    line-height: 24px
+}
+
+.our-member {
+    padding: 30px 0;
+    text-align: center
+}
+
+.our-member h2 {
+    text-align: center;
+    color: #222;
+    font-size: 26px;
+    margin: 0 0 20px;
+    text-transform: capitalize
+}
+
+.our-member .dshort-des {
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+    margin: 0 0 25px
+}
+
+.our-member .item-inner {
+    background: #fff
+}
+
+.our-member .item-inner h2 {
+    font-size: 14px;
+    color: #222;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin: 0 0 5px
+}
+
+.our-member .item-inner p {
+    font-size: 12px;
+    color: #666;
+    margin: 0
+}
+
+.our-member .item-inner .socials-wraps {
+    padding: 0 0 15px;
+    text-align: center
+}
+
+.our-member .item-inner .socials-wraps li {
+    display: inline-block;
+    padding: 0 7px
+}
+
+.our-member .item-inner .socials-wraps li a {
+    font-size: 14px;
+    color: #555
+}
+
+.our-member .item-inner .socials-wraps li a:hover {
+    color: #ff5c00
+}
+
+.our-member .item-inner img {
+    width: 100%
+}
+
+.our-member .item-inner .item-content {
+    padding: 20px 0 15px;
+    text-align: center
+}
+
+.about-service {
+    position: relative;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #515151;
+    border-left-width: 0;
+    border-right-width: 0;
+    padding: 30px 0
+}
+
+.welcome-about-us {
+    padding: 30px 0
+}
