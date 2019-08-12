@@ -44,3 +44,5 @@ d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Checkout.g.cshtml.cs
 d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Profile.g.cshtml.cs
 d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\PurchaseHistory.g.cshtml.cs
 d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Checkout.g.cshtml.cs
+d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\blog.g.cshtml.cs
+d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\BlogDetails.g.cshtml.cs
