@@ -58,11 +58,16 @@ namespace mbf.Controllers
             return View("~/Views/Home/Profile.cshtml");
         }
 
-        public IActionResult About()
+        [Route("/{userId}/purchase")]
+        public IActionResult PurchaseHistory()
         {
-            ViewData["Message"] = "Your application description page.";
+            return View("~/Views/Home/PurchaseHistory.cshtml");
+        }
 
-            return View();
+        [Route("/{userId}/checkout")]
+        public IActionResult checkout()
+        {
+            return View("~/Views/Home/Checkout.cshtml");
         }
 
         public IActionResult About()
@@ -71,6 +76,7 @@ namespace mbf.Controllers
 
             return View();
         }
+
 
 
         public IActionResult Contact()
