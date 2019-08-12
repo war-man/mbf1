@@ -46,12 +46,32 @@ namespace mbf.Controllers
         }
 
 
+        [Route("/signup")]
+        public IActionResult Signup()
+        {
+            return View("~/Views/Home/Signup.cshtml");
+        }
+
+        [Route("/{userId}/profile")]
+        public IActionResult UserProfile()
+        {
+            return View("~/Views/Home/Profile.cshtml");
+        }
+
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
 
             return View();
         }
+
+        public IActionResult About()
+        {
+            ViewData["Message"] = "Your application description page.";
+
+            return View();
+        }
+
 
         public IActionResult Contact()
         {

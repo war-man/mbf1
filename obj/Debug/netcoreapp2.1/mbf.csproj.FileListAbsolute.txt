@@ -38,3 +38,5 @@ d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Collection.g.cshtml.cs
 d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Category.g.cshtml.cs
 d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\ProductDetails.g.cshtml.cs
 d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Cart.g.cshtml.cs
+d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Signup.g.cshtml.cs
