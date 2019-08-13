@@ -10,6 +10,11 @@ namespace mbf.Controllers
 {
     public class HomeController : Controller
     {
+        [Route("/menu")]
+        public IActionResult Menu()
+        {
+            return View("~/Views/Home/Menu.cshtml");
+        }
         public IActionResult Index()
         {
             return View();
@@ -92,6 +97,24 @@ namespace mbf.Controllers
         public IActionResult SearchResults()
         {
             return View("~/Views/Home/SearchResult.cshtml");
+        }
+
+        [Route("/wishList")]
+        public IActionResult WishList()
+        {
+            return View("~/Views/Home/WishList.cshtml");
+        }
+
+        [Route("/policy")]
+        public IActionResult Policy()
+        {
+            return View("~/Views/Home/WishList.cshtml");
+        }
+
+        [Route("/forgetPassword")]
+        public IActionResult ForgetPassword()
+        {
+            return View("~/Views/Home/ForgetPassword.cshtml");
         }
 
         public IActionResult Contact()

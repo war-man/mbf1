@@ -47,3 +47,7 @@ d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Checkout.g.cshtml.cs
 d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\blog.g.cshtml.cs
 d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\BlogDetails.g.cshtml.cs
 d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\WishList.g.cshtml.cs
+d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\SearchResult.g.cshtml.cs
+d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\ForgetPassword.g.cshtml.cs
+d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Policy.g.cshtml.cs
+d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Menu.g.cshtml.cs
