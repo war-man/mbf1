@@ -85,7 +85,7 @@ using mbf.Models;
             WriteLiteral("r-wrapper\">\r\n\t\t\t\t\t<div class=\"container\">\r\n\t\t\t\t\t\t<div class=\"row\">\r\n\t\t\t\t\t\t\t<div class=\"register-inner\">\r\n\t\t\t\t\t\t\t\t<div id=\"customer-register\">\r\n\t\t\t\t\t\t\t\t\t<div id=\"register\" class=\"\">\r\n\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(1216, 1492, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fc0e766379d6436196f5cb3e150e2bd7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "80365d12f0304d888136e7f535357773", async() => {
                 BeginContext(1354, 1347, true);
                 WriteLiteral(@"<input type=""hidden"" value=""create_customer"" name=""form_type""><input type=""hidden"" name=""utf8"" value=""✓"">
 											<div id=""first_name1"" class=""clearfix large_form"">

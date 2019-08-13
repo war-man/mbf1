@@ -73,8 +73,6 @@ namespace mbf.Controllers
         [Route("/about")]
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
-
             return View("~/Views/Home/About.cshtml");
         }
 
@@ -95,10 +93,9 @@ namespace mbf.Controllers
         {
             return View("~/Views/Home/SearchResult.cshtml");
         }
+
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
-
             return View();
         }
 

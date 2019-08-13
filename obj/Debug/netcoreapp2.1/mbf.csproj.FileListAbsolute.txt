@@ -46,3 +46,4 @@ d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\PurchaseHistory.g.cshtml.
 d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Checkout.g.cshtml.cs
 d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\blog.g.cshtml.cs
 d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\BlogDetails.g.cshtml.cs
+d:\C#\MVC\mbf\obj\Debug\netcoreapp2.1\Razor\Views\Home\WishList.g.cshtml.cs
