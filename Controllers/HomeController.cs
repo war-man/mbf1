@@ -10,11 +10,14 @@ namespace mbf.Controllers
 {
     public class HomeController : Controller
     {
+        [Route("/")]
         [Route("/menu")]
         public IActionResult Menu()
         {
             return View("~/Views/Home/Menu.cshtml");
         }
+
+        [Route("/index")]
         public IActionResult Index()
         {
             return View();
