@@ -1,6 +1,7 @@
 	@{
 		string[] mobileBrand = {"Iphone","Samsung","Xiaomi"};
 		string[] laptopBrand = {"Apple", "Dell", "Asus", "Acer", "HP", "Lenovo", "MSI"};
+		string[] laptopPrice = {"dưới 5 triệu, từ 5-10 triệu, từ 10-15 triệu, từ 15-20 triệu, trên 20 triệu"};
  	}
 	
 	<header id="top" class="header clearfix">
@@ -835,6 +836,9 @@
 															<li class="mega-links mega1-collumn2 col-sm-3">
 																<ul>
 																	<li class="list-unstyled li-sub-mega">
+																		<h1>Mức giá</h1>
+																	</li>																	
+																	<!-- <li class="list-unstyled li-sub-mega">
 																		<a href="#">Nokia</a>
 																	</li>
 																	<li class="list-unstyled li-sub-mega">
@@ -847,8 +851,18 @@
 																		<a href="#">OPPO</a>
 																	</li>
 																	<li class="list-unstyled li-sub-mega">
-																		<a href="#">VSmart</a>
+																		<a href="#">VSmart</a> -->
 																	</li>
+																			@foreach (var x in laptopPrice)
+																			{
+																				<li class="mega-links mega1-collumn1 col-sm-3">
+																					<ul>
+																						<li class="list-unstyled li-sub-mega">
+																							<a href="about-us.html">@x</a>
+																						</li>
+																					</ul>
+																				</li>																				
+																			}																	
 																</ul>
 															</li>
 															<li class="mega-links mega1-collumn3 col-sm-3">
@@ -915,6 +929,7 @@
 														</ul>
 													</div>
 												</li>
+												<!-- end third nav item -->
 												<li class="nav-item dropdown mega-menu">
 													<a href="collections.html" class="dropdown-toggle dropdown-link" data-toggle="dropdown">
 														<span>Phụ kiện</span>
