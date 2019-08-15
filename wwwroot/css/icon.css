@@ -1,0 +1,52 @@
+.bottom-nav-link {
+  display: flex;
+  position: relative;
+  -webkit-box-align: center;
+  align-items: center;
+  color: #555;
+  height: 100%;
+  font-weight: 600;
+}
+
+/* @media (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 192dpi) { */
+
+[class^="mbficon-"],
+[class*="mbficon-"] {
+  background-image: url(/images/mbf-sprite1.png);
+  background-size: 404px 383px;
+  display: inline-block;
+  vertical-align: middle;
+  margin: auto;
+}
+
+/* } */
+
+.mbficon-phone {
+  background-position: -392px -52px;
+  width: 11px;
+  height: 18px;
+}
+
+.mbficon-laptop {
+  background-position: -203px -181px;
+  width: 21px;
+  height: 14px;
+}
+
+.mbficon-headphone {
+  background-position: -331px -317px;
+  width: 16px;
+  height: 17px;
+}
+
+.mbficon-card {
+  background-position: -128px -255px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon-wrap {
+  width: 39px;
+  text-align: center;
+}
