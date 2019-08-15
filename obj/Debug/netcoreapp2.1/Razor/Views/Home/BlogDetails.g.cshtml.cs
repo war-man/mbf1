@@ -510,7 +510,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(24591, 1275, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b6c54aec260149f2910db0904b3d25f2", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bbff06d101e940c28fb67c8ca8747643", async() => {
                 BeginContext(24746, 1113, true);
                 WriteLiteral(@"<input type=""hidden"" value=""new_comment"" name=""form_type""><input type=""hidden"" name=""utf8"" value=""✓"">
 														<h2 class=""article-title page-title""><span>Leave your comment</span></h2>

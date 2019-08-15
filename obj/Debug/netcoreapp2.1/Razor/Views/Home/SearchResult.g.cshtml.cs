@@ -60,7 +60,7 @@ using mbf.Models;
                 WriteLiteral("\r\n    ");
                 EndContext();
                 BeginContext(27, 60, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "69678c1a43e449a9935cb7dc0b281a41", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "1ab7389a0d4345b08a05c187a5c709b4", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -131,7 +131,7 @@ using mbf.Models;
                                                             ");
             EndContext();
             BeginContext(3011, 595, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7ef5314760794d7e9a45de8b72624a47", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b53773d18675484c9e5197ed3205602d", async() => {
                 BeginContext(3055, 544, true);
                 WriteLiteral(@"
                                                                 <div class=""effect-ajax-cart"">
@@ -217,7 +217,7 @@ using mbf.Models;
                                                             ");
             EndContext();
             BeginContext(8370, 595, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "977ce2063e8f4dc4b69c6aa3d1752286", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d614628c1a03443aa40d59159749d16a", async() => {
                 BeginContext(8414, 544, true);
                 WriteLiteral(@"
                                                                 <div class=""effect-ajax-cart"">
@@ -301,7 +301,7 @@ using mbf.Models;
                                                             ");
             EndContext();
             BeginContext(13663, 595, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "97e385b03e734eb791d05232d023dce7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02004c3f21544f6ebf1f24e79b0fa921", async() => {
                 BeginContext(13707, 544, true);
                 WriteLiteral(@"
                                                                 <div class=""effect-ajax-cart"">
@@ -384,7 +384,7 @@ using mbf.Models;
                                                             ");
             EndContext();
             BeginContext(18810, 595, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ca992dcbacd744a6b507c8aac0028a67", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "86646ebcfe8948e3ae596f76406b57c6", async() => {
                 BeginContext(18854, 544, true);
                 WriteLiteral(@"
                                                                 <div class=""effect-ajax-cart"">
@@ -467,7 +467,7 @@ using mbf.Models;
                                                             ");
             EndContext();
             BeginContext(23955, 595, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5a216781264546b38954f8018e74b1fd", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9cb7920bc9d24bafa9b36af572d7fb28", async() => {
                 BeginContext(23999, 544, true);
                 WriteLiteral(@"
                                                                 <div class=""effect-ajax-cart"">
@@ -550,7 +550,7 @@ using mbf.Models;
                                                             ");
             EndContext();
             BeginContext(29077, 595, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4b295dac5f594bfda13920218ef8b85f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "82a8beb8c95e475c94e17497a6b5164f", async() => {
                 BeginContext(29121, 544, true);
                 WriteLiteral(@"
                                                                 <div class=""effect-ajax-cart"">
@@ -636,7 +636,7 @@ using mbf.Models;
                                                             ");
             EndContext();
             BeginContext(34433, 595, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c1f061f8419545adab93183ad5107bce", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "27c0b3be0184467ab3e2a71e02a2cb60", async() => {
                 BeginContext(34477, 544, true);
                 WriteLiteral(@"
                                                                 <div class=""effect-ajax-cart"">
@@ -720,7 +720,7 @@ using mbf.Models;
                                                             ");
             EndContext();
             BeginContext(39694, 595, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "740161cc5eea40ad8dedfe7e1ef61580", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "db3e537f14384323aacec54df8864383", async() => {
                 BeginContext(39738, 544, true);
                 WriteLiteral(@"
                                                                 <div class=""effect-ajax-cart"">

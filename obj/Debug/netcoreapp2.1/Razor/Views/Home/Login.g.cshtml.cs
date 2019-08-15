@@ -86,7 +86,7 @@ using mbf.Models;
             WriteLiteral("=\"container\">\r\n\t\t\t\t\t\t<div class=\"row\">\r\n\t\t\t\t\t\t\t<div class=\"login-content-inner\">\r\n\t\t\t\t\t\t\t\t<div id=\"customer-login\">\r\n\t\t\t\t\t\t\t\t\t<div id=\"login\" class=\"\">\r\n\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(1187, 852, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c92575750d8343818e5efdc9066e142c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0e968cfa6bb5462ca479d7f457d7bf40", async() => {
                 BeginContext(1310, 722, true);
                 WriteLiteral(@"
 											<input type=""hidden"" value=""customer_login"" name=""form_type"">
@@ -122,7 +122,7 @@ using mbf.Models;
             WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t<div id=\"recover-password\" style=\"display:none;\" class=\"\">\r\n\t\t\t\t\t\t\t\t\t\t<h2>Reset Password</h2>\r\n\t\t\t\t\t\t\t\t\t\t<p class=\"note\">We will send you an email to reset your password.</p>\r\n\t\t\t\t\t\t\t\t\t\t");
             EndContext();
             BeginContext(2253, 560, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2852d48abff043d9bb68626400811e66", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "46f4919e9ff54682978cd3ad6dbbf25f", async() => {
                 BeginContext(2273, 533, true);
                 WriteLiteral(@"
 											<input type=""hidden"" value=""recover_customer_password"" name=""form_type"">
