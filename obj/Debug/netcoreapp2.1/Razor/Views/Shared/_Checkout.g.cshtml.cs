@@ -57,7 +57,7 @@ using mbf.Models;
             WriteLiteral("<!DOCTYPE html>\r\n<html>\r\n");
             EndContext();
             BeginContext(25, 386, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dd6ac1d2642848f78846430287f961a9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "45359279a438449cb215cfc6c231d1ec", async() => {
                 BeginContext(31, 121, true);
                 WriteLiteral("\r\n    <meta charset=\"utf-8\" />\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\r\n    <title>");
                 EndContext();
@@ -72,7 +72,7 @@ using mbf.Models;
                 WriteLiteral(" - mbf</title>\r\n\r\n    ");
                 EndContext();
                 BeginContext(192, 147, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8bc68a75b2984614810f52cc834fd1a3", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "66026fbde528408eae9e1210674760eb", async() => {
                     BeginContext(227, 45, true);
                     WriteLiteral("\r\n        <!-- custom stylesheet -->\r\n       ");
                     EndContext();
@@ -104,7 +104,7 @@ using mbf.Models;
                 WriteLiteral("\r\n    ");
                 EndContext();
                 BeginContext(345, 55, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0f3cf34ea64740a6b05ebf4e2ef71579", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f76b63bb8560415bba537b34b7ab3e1e", async() => {
                     BeginContext(380, 6, true);
                     WriteLiteral("\r\n    ");
                     EndContext();
@@ -141,7 +141,7 @@ using mbf.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(413, 81, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c0bab9ff4ce54d61be8197b9456279d5", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fe84fe3a28d043f49f6cd9d63eeecdcd", async() => {
                 BeginContext(419, 6, true);
                 WriteLiteral("\r\n    ");
                 EndContext();

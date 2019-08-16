@@ -81,7 +81,7 @@ using mbf.Models;
 											");
             EndContext();
             BeginContext(742, 464, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fbaf295698dc4937a0528723c21f6267", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "483192a4b1ce425bae539f6a94752a30", async() => {
                 BeginContext(951, 248, true);
                 WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"email\" class=\"form-control\" value=\"\" name=\"EMAIL\" id=\"mail\" placeholder=\"Địa chỉ email của bạn\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t<button type=\"submit\" class=\"btn_newsletter_send btn\" name=\"subscribe\" id=\"subscribe\">Gửi</button>\r\n\t\t\t\t\t\t\t\t\t\t\t");
                 EndContext();

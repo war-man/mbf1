@@ -68,7 +68,7 @@ using mbf.Models;
             ");
             EndContext();
             BeginContext(277, 1119, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2da87b9a0ac241fd9ef7a805b2a1d4ea", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "44b231ae4d674408b7a069586bc806d5", async() => {
                 BeginContext(364, 1025, true);
                 WriteLiteral(@"<input type=""hidden"" name=""form_type"" value=""customer_login""><input type=""hidden"" name=""utf8"" value=""✓"">
             
@@ -131,7 +131,7 @@ using mbf.Models;
               ");
             EndContext();
             BeginContext(1743, 828, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dbc64a92366143fb9cc8054bfe52a016", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0fdc21e9efed4ffc8fee6bfd234969a0", async() => {
                 BeginContext(1812, 752, true);
                 WriteLiteral(@"<input type=""hidden"" name=""form_type"" value=""recover_customer_password""><input type=""hidden"" name=""utf8"" value=""✓"">
 

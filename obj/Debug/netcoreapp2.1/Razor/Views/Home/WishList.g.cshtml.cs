@@ -105,7 +105,7 @@ using mbf.Models;
 																	");
             EndContext();
             BeginContext(1653, 73, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "76c2f378025f4b979b0d5e3b18b085f7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "ceab4e9894504cc7b57d39b25f0cca3c", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -145,7 +145,7 @@ using mbf.Models;
 														");
             EndContext();
             BeginContext(2457, 309, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "79090af04b3d47719efde785ff2518a6", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "acebeed6a9cb48cf8cce93cc5378ad9e", async() => {
                 BeginContext(2550, 209, true);
                 WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"hidden\" name=\"quantity\" value=\"1\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<button class=\"btn btn-1 select-option\" type=\"button\" onclick=\"window.location=\'product.html\';\">Options</button>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
                 EndContext();
@@ -177,7 +177,7 @@ using mbf.Models;
 																<a class=""image text-left"" href=""product.html"">");
             EndContext();
             BeginContext(3033, 73, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "8e72efccb72e408bb3330026cdd7c853", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "20c714d384f049aaa5a8fa3514aac1bc", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -216,7 +216,7 @@ using mbf.Models;
 														");
             EndContext();
             BeginContext(3819, 306, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3218018738b04bcf97f19bf54e20a3b2", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4c27393966124bdaad85a4ae528ba45c", async() => {
                 BeginContext(3909, 209, true);
                 WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"hidden\" name=\"quantity\" value=\"1\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<button class=\"btn btn-1 select-option\" type=\"button\" onclick=\"window.location=\'product.html\';\">Options</button>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
                 EndContext();
@@ -248,7 +248,7 @@ using mbf.Models;
 																<a class=""image text-left"" href=""product.html"">");
             EndContext();
             BeginContext(4392, 73, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "0aeebfbf608644f9813705cb8fe05d58", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "773363edd09b422f8cecfe74b0ceab76", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -287,7 +287,7 @@ using mbf.Models;
 														");
             EndContext();
             BeginContext(5179, 306, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f56cf1d220214d61a203a788a0727fde", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "84b023f8289243baaa807304c8f725d9", async() => {
                 BeginContext(5269, 209, true);
                 WriteLiteral("\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"hidden\" name=\"quantity\" value=\"1\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<button class=\"btn btn-1 select-option\" type=\"button\" onclick=\"window.location=\'product.html\';\">Options</button>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t");
                 EndContext();
